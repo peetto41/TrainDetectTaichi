@@ -26,10 +26,6 @@ pip install mediapipe
 pip install opencv-python
 ```
 ``` bash
-# install opencv
-pip install opencv-python
-```
-``` bash
 # install decord
 pip install decord
 ```
