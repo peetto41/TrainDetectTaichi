@@ -51,15 +51,11 @@ pip install matplotlib
 ```
 ## How to run code
 ``` bash
-## Step 1
-Put the desired video in the folder.
-## Step 2 
-### run code to capture video to keep in dataset
+## Step 1 Put the desired video in the folder.
+## Step 2 run code to capture video to keep in dataset
 python cp.py
-## step 3 
-### run code to train dataset and export model used
+## step 3 run code to train dataset and export model used
 python train.py
-## step 4 
-### run code to check result model
+## step 4 run code to check result model
 python detect.py
 ```
