@@ -49,13 +49,14 @@ pip install matplotlib
 # install matplotlib
 pip install matplotlib
 ```
+## How to run code
 ``` bash
 ## Step 1
 Put the desired video in the folder.
 ## Step 2
 python cp.py
 ## step 3 
-## python train.py
+python train.py
 ## step 4
 python detect.py
 ```
