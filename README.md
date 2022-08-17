@@ -41,10 +41,6 @@ pip install scikit-learn
 # install matplotlib
 pip install matplotlib
 ```
-``` bash
-# install matplotlib
-pip install matplotlib
-```
 ## How to run code
 ``` bash
 ## Step 1 Put the desired video in the folder.
